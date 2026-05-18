@@ -1,0 +1,14 @@
+# Ignorar los datasets pesados de los laboratorios
+Laboratorios/Lab02/
+primer parcial/datasets/
+**/datasets/
+*.csv
+*.zip
+*.tfrecords
+*.xls
+*.json
+*.tfrecords
+*.sql
+*.rar
+*.7z
+*.tar.gz
