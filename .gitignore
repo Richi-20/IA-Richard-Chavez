@@ -1,5 +1,5 @@
 # Ignorar los datasets pesados de los laboratorios
-Laboratorios/Lab02/
+
 primer parcial/datasets/
 **/datasets/
 *.csv
